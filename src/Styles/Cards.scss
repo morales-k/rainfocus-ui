@@ -1,0 +1,72 @@
+@use "./globals/shared.scss" as *;
+
+#longCard {
+    flex-wrap: wrap;
+    border: 1px solid $light-gray;
+    border-radius: 4px;
+    margin-bottom: 24px;
+    flex: 1;
+    box-sizing: content-box;
+}
+
+#longCard .card {
+    border: none;
+}
+
+.card {
+    min-width: 130px;
+    max-width: 270px;
+    border: 1px solid $light-gray;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    padding: 28px 36px;
+    color: #222;
+    flex: 1;
+    box-sizing: content-box;
+}
+
+.no-left-m {
+    margin-left: 0;
+}
+
+.card .flex-row {
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.card img {
+    width: 18px;
+    margin-right: 12px;
+}
+
+.card .title {
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.card .info {
+    font-size: 12px;
+}
+
+.card .center-style {
+    align-items: center;
+    justify-content: center;
+}
+
+.card p.center-style {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.card img.center-style {
+    margin: 0;
+}
+
+.multi-card {
+    flex: 1;
+    flex-wrap: wrap;
+    box-sizing: content-box;
+    justify-content: space-between;
+    gap: 0 12px;
+}

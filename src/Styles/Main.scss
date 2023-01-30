@@ -1,0 +1,15 @@
+@use "./globals/shared.scss" as *;
+
+.padded {
+    padding: 40px 48px;
+}
+
+@media (max-width: $desktop-layout) {
+    main {
+        padding: 5%;
+    }
+
+    .padded {
+        padding: 0;
+    }
+}

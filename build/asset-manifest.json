@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4965f0a4.css",
+    "main.js": "/static/js/main.1fb9f07d.js",
+    "static/media/org.svg": "/static/media/org.695abee5b0e146e692764abf691180ab.svg",
+    "static/media/navorg.svg": "/static/media/navorg.00532f07cc714b16a659e878bc1cc3a1.svg",
+    "static/media/navlogo.svg": "/static/media/navlogo.7bf50d1809c5ad3a7f358e954ff182d7.svg",
+    "static/media/personportal.svg": "/static/media/personportal.4cb0c1a5564c7b605707af1d83bff5bc.svg",
+    "index.html": "/index.html",
+    "static/media/search.svg": "/static/media/search.c4e4a755f2ff9725aae9.svg",
+    "static/media/addcircleoutline.svg": "/static/media/addcircleoutline.0c329bcc215a192bed01441f74bb9354.svg",
+    "static/media/computer.svg": "/static/media/computer.11c1a4708711cfd8114fe5c5f63c5f20.svg",
+    "static/media/navuser.svg": "/static/media/navuser.a3e679fe5d4465b7d65afda2e5683080.svg",
+    "static/media/arrow.svg": "/static/media/arrow.fb625a502542f334b45486ea1e612b64.svg"
+  },
+  "entrypoints": [
+    "static/css/main.4965f0a4.css",
+    "static/js/main.1fb9f07d.js"
+  ]
+}
